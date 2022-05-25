@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/orangetask_mohamedmohsen.iml" filepath="$PROJECT_DIR$/orangetask_mohamedmohsen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/orangetask_mohamedmohsen_android.iml" filepath="$PROJECT_DIR$/android/orangetask_mohamedmohsen_android.iml" />
+    </modules>
+  </component>
+</project>

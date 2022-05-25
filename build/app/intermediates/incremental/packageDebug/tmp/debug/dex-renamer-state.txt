@@ -1,0 +1,4 @@
+#Wed May 25 13:55:56 EET 2022
+base.0=/Users/mohamed/StudioProjects/orangeTask_MohamedMohsen/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
